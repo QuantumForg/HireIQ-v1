@@ -471,10 +471,12 @@ HIREIQ V1
 REDROB AI HACKATHON PIPELINE
 ====================================================================================================
 
-[1/4] FEATURE ENGINEERING
-[2/4] SUBMISSION GENERATION
-[3/4] REPORT GENERATION
-[4/4] ARTIFACT VALIDATION
+[1/5] FEATURE ENGINEERING
+[2/5] SCORING & RANKING
+[3/5] SUBMISSION GENERATION
+[4/5] REPORT GENERATION
+[5/5] ARTIFACT VALIDATION
+
 ✓ features.csv (...)
 ✓ submission.csv (...)
 ✓ ranking_report.txt (...)
