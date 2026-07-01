@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0037980,1,2572.5125,Senior Applied Scientist with 9.0yr exp | retrieval=2 | ranking=2 | production_ai=4 | career_quality=20
+CAND_0007009,2,2413.55,Recommendation Systems Engineer with 7.9yr exp | retrieval=4 | ranking=2 | production_ai=1 | AI-titled role | career_quality=75
+CAND_0044883,3,2197.075,AI Engineer with 6.3yr exp | retrieval=3 | ranking=1 | production_ai=3 | AI-titled role | career_quality=80
+CAND_0008425,4,2188.15,Senior NLP Engineer with 7.8yr exp | retrieval=5 | ranking=2 | production_ai=2 | AI-titled role | career_quality=75
+CAND_0041610,5,2180.5575,Recommendation Systems Engineer with 6.7yr exp | retrieval=4 | ranking=3 | production_ai=3 | AI-titled role | career_quality=80
+CAND_0086151,6,2100.65,Recommendation Systems Engineer with 7.7yr exp | retrieval=4 | ranking=2 | production_ai=2 | AI-titled role | career_quality=90
+CAND_0068811,7,2090.025,Applied ML Engineer with 8.0yr exp | retrieval=2 | production_ai=3 | AI-titled role | career_quality=85
+CAND_0065878,8,2059.41,Senior Data Scientist with 7.8yr exp | retrieval=2 | ranking=1 | production_ai=3 | AI-titled role | career_quality=105
+CAND_0000031,9,2052.275,Recommendation Systems Engineer with 6.0yr exp | retrieval=3 | production_ai=5 | AI-titled role | career_quality=70
+CAND_0046064,10,2031.8125,Senior NLP Engineer with 8.9yr exp | retrieval=2 | ranking=1 | production_ai=1 | AI-titled role | career_quality=80
+CAND_0007412,11,2005.6625,Applied ML Engineer with 7.4yr exp | retrieval=2 | ranking=2 | production_ai=3 | AI-titled role | career_quality=100
+CAND_0041669,12,1978.2625,Recommendation Systems Engineer with 8.0yr exp | retrieval=2 | production_ai=2 | AI-titled role | career_quality=75
+CAND_0011162,13,1956.49,Recommendation Systems Engineer with 5.8yr exp | retrieval=3 | production_ai=2 | AI-titled role | career_quality=50
+CAND_0086022,14,1948.5025,Senior Applied Scientist with 5.3yr exp | retrieval=4 | ranking=1 | production_ai=4 | career_quality=50
+CAND_0031593,15,1909.2625,Search Engineer with 7.8yr exp | retrieval=3 | ranking=2 | production_ai=1 | AI-titled role | career_quality=75
+CAND_0005649,16,1856.175,Senior Data Scientist with 7.4yr exp | retrieval=3 | ranking=1 | production_ai=3 | AI-titled role | career_quality=80
+CAND_0081686,17,1855.4,Search Engineer with 6.0yr exp | retrieval=2 | production_ai=3 | AI-titled role | career_quality=90
+CAND_0026532,18,1846.2975,Recommendation Systems Engineer with 4.8yr exp | retrieval=3 | production_ai=2 | AI-titled role | career_quality=65
+CAND_0098846,19,1819.65,AI Engineer with 7.6yr exp | retrieval=1 | ranking=1 | production_ai=4 | AI-titled role | career_quality=65
+CAND_0024466,20,1766.19,Search Engineer with 5.2yr exp | retrieval=3 | ranking=2 | production_ai=2 | AI-titled role | career_quality=55
+CAND_0006567,21,1751.075,Senior AI Engineer with 7.9yr exp | retrieval=2 | ranking=2 | production_ai=3 | AI-titled role | career_quality=45
+CAND_0051292,22,1737.265,Applied ML Engineer with 5.2yr exp | retrieval=1 | production_ai=1 | AI-titled role | career_quality=80
+CAND_0083307,23,1703.725,Search Engineer with 7.8yr exp | retrieval=4 | ranking=1 | production_ai=3 | AI-titled role | career_quality=105
+CAND_0058575,24,1698.675,AI Engineer with 5.8yr exp | retrieval=2 | ranking=1 | production_ai=2 | AI-titled role | career_quality=65
+CAND_0017960,25,1689.2275,Recommendation Systems Engineer with 7.7yr exp | retrieval=1 | production_ai=2 | AI-titled role | career_quality=50
+CAND_0041625,26,1656.1975,AI Research Engineer with 4.7yr exp | retrieval=1 | production_ai=1 | AI-titled role | career_quality=70
+CAND_0097896,27,1628.65,AI Research Engineer with 4.8yr exp | retrieval=3 | production_ai=2 | AI-titled role | career_quality=75
+CAND_0041568,28,1577.775,Search Engineer with 5.2yr exp | retrieval=4 | ranking=2 | production_ai=2 | AI-titled role | career_quality=75
+CAND_0098780,29,1572.8075,AI Research Engineer with 5.9yr exp | retrieval=2 | production_ai=4 | AI-titled role | career_quality=50
+CAND_0051615,30,1554.5125,Search Engineer with 4.6yr exp | retrieval=2 | AI-titled role | career_quality=50
+CAND_0036184,31,1534.275,Recommendation Systems Engineer with 6.0yr exp | retrieval=4 | production_ai=2 | AI-titled role | career_quality=70
+CAND_0050876,32,1522.755,Applied ML Engineer with 6.0yr exp | retrieval=1 | production_ai=5 | AI-titled role | career_quality=85
+CAND_0053695,33,1521.4125,Recommendation Systems Engineer with 5.8yr exp | retrieval=3 | ranking=1 | production_ai=2 | AI-titled role | career_quality=75
+CAND_0069905,34,1519.57,Applied ML Engineer with 6.6yr exp | retrieval=3 | ranking=2 | production_ai=3 | AI-titled role | career_quality=90
+CAND_0064326,35,1519.1825,Search Engineer with 7.6yr exp | retrieval=2 | ranking=1 | production_ai=3 | AI-titled role | career_quality=85
+CAND_0075138,36,1519.0875,AI Research Engineer with 4.6yr exp | retrieval=4 | ranking=2 | production_ai=4 | AI-titled role | career_quality=30
+CAND_0093912,37,1510.975,Senior Data Scientist with 5.3yr exp | retrieval=4 | ranking=2 | production_ai=1 | AI-titled role | career_quality=85
+CAND_0076831,38,1502.6575,Search Engineer with 4.0yr exp | retrieval=1 | ranking=1 | production_ai=2 | AI-titled role | career_quality=25
+CAND_0081846,39,1499.5125,Lead AI Engineer with 6.7yr exp | retrieval=7 | ranking=3 | production_ai=3 | AI-titled role | career_quality=85
+CAND_0018499,40,1497.4,Senior Machine Learning Engineer with 7.2yr exp | retrieval=5 | ranking=3 | production_ai=1 | AI-titled role | career_quality=100
+CAND_0030953,41,1497.4,Search Engineer with 7.8yr exp | retrieval=1 | ranking=1 | production_ai=2 | AI-titled role | career_quality=115
+CAND_0062413,42,1490.9625,AI Research Engineer with 6.6yr exp | retrieval=3 | ranking=2 | production_ai=1 | AI-titled role | career_quality=35
+CAND_0023458,43,1477.3875,AI Research Engineer with 5.0yr exp | retrieval=2 | ranking=1 | production_ai=2 | AI-titled role | career_quality=35
+CAND_0084819,44,1463.32,Search Engineer with 4.5yr exp | retrieval=5 | ranking=2 | production_ai=4 | AI-titled role | career_quality=45
+CAND_0030550,45,1462.39,AI Research Engineer with 5.2yr exp | retrieval=1 | production_ai=1 | AI-titled role | career_quality=50
+CAND_0018722,46,1461.275,Recommendation Systems Engineer with 6.6yr exp | retrieval=1 | ranking=1 | production_ai=3 | AI-titled role | career_quality=85
+CAND_0074735,47,1457.5825,Applied ML Engineer with 5.5yr exp | retrieval=4 | ranking=1 | production_ai=3 | AI-titled role | career_quality=50
+CAND_0021491,48,1456.4225,AI Research Engineer with 6.1yr exp | retrieval=2 | ranking=1 | production_ai=4 | AI-titled role | career_quality=35
+CAND_0010655,49,1437.6075,ML Engineer with 5.8yr exp | retrieval=1 | ranking=1 | production_ai=3 | AI-titled role | career_quality=60
+CAND_0035653,50,1437.435,Data Scientist with 5.6yr exp | retrieval=1 | production_ai=3 | AI-titled role | career_quality=60
+CAND_0061265,51,1431.8125,Recommendation Systems Engineer with 6.6yr exp | retrieval=3 | ranking=1 | AI-titled role | career_quality=70
+CAND_0087364,52,1429.625,Recommendation Systems Engineer with 4.9yr exp | production_ai=1 | AI-titled role | career_quality=25
+CAND_0036484,53,1429.0875,AI Research Engineer with 5.7yr exp | retrieval=1 | ranking=1 | production_ai=3 | AI-titled role | career_quality=30
+CAND_0024620,54,1427.5375,AI Engineer with 5.9yr exp | retrieval=4 | ranking=2 | production_ai=2 | AI-titled role | career_quality=45
+CAND_0099401,55,1415.1375,NLP Engineer with 7.7yr exp | retrieval=4 | ranking=1 | production_ai=2 | AI-titled role | career_quality=75
+CAND_0009024,56,1412.4775,Search Engineer with 5.2yr exp | retrieval=1 | ranking=1 | production_ai=3 | AI-titled role | career_quality=60
+CAND_0075249,57,1411.6625,Applied ML Engineer with 6.2yr exp | retrieval=3 | ranking=2 | production_ai=2 | AI-titled role | career_quality=65
+CAND_0049538,58,1410.5125,Applied ML Engineer with 5.8yr exp | retrieval=4 | ranking=2 | production_ai=3 | AI-titled role | career_quality=45
+CAND_0091254,59,1407.4525,AI Research Engineer with 5.2yr exp | production_ai=6 | AI-titled role | career_quality=40
+CAND_0044855,60,1401.3375,Senior Data Scientist with 6.6yr exp | retrieval=4 | ranking=1 | production_ai=1 | AI-titled role | career_quality=85
+CAND_0078492,61,1394.6125,Recommendation Systems Engineer with 5.1yr exp | retrieval=2 | ranking=2 | production_ai=2 | AI-titled role | career_quality=50
+CAND_0027801,62,1381.8125,NLP Engineer with 7.4yr exp | retrieval=2 | ranking=1 | production_ai=3 | AI-titled role | career_quality=80
+CAND_0077285,63,1380.72,Recommendation Systems Engineer with 5.5yr exp | retrieval=3 | production_ai=1 | AI-titled role | career_quality=45
+CAND_0030031,64,1375.65,AI Engineer with 5.7yr exp | retrieval=4 | ranking=1 | production_ai=3 | AI-titled role | career_quality=55
+CAND_0077337,65,1373.025,Staff Machine Learning Engineer with 7.0yr exp | retrieval=5 | ranking=2 | production_ai=2 | career_quality=95
+CAND_0061339,66,1371.25,Search Engineer with 4.2yr exp | retrieval=2 | production_ai=3 | AI-titled role | career_quality=60
+CAND_0019288,67,1370.225,AI Research Engineer with 5.7yr exp | production_ai=2 | AI-titled role | career_quality=35
+CAND_0052328,68,1363.0375,Recommendation Systems Engineer with 6.5yr exp | retrieval=4 | ranking=2 | production_ai=2 | AI-titled role | career_quality=30
+CAND_0079387,69,1361.285,AI Engineer with 6.9yr exp | retrieval=5 | ranking=3 | production_ai=4 | AI-titled role | career_quality=95
+CAND_0021827,70,1359.66,AI Research Engineer with 4.4yr exp | retrieval=1 | production_ai=1 | AI-titled role | career_quality=40
+CAND_0014440,71,1357.24,Recommendation Systems Engineer with 6.4yr exp | production_ai=2 | AI-titled role | career_quality=60
+CAND_0095528,72,1357.1275,Senior Data Scientist with 5.3yr exp | retrieval=2 | production_ai=5 | AI-titled role | career_quality=40
+CAND_0066999,73,1353.0,Recommendation Systems Engineer with 5.9yr exp | retrieval=3 | ranking=1 | AI-titled role | career_quality=35
+CAND_0010685,74,1349.9875,NLP Engineer with 6.7yr exp | retrieval=1 | production_ai=2 | AI-titled role | career_quality=85
+CAND_0028793,75,1349.9375,Search Engineer with 7.2yr exp | retrieval=3 | ranking=1 | production_ai=2 | AI-titled role | career_quality=70
+CAND_0049896,76,1343.65,Search Engineer with 7.3yr exp | retrieval=3 | production_ai=2 | AI-titled role | career_quality=50
+CAND_0068777,77,1343.3125,AI Research Engineer with 6.6yr exp | retrieval=2 | ranking=2 | production_ai=2 | AI-titled role | career_quality=40
+CAND_0013393,78,1340.565,ML Engineer with 5.3yr exp | retrieval=2 | production_ai=4 | AI-titled role | career_quality=75
+CAND_0043228,79,1339.3475,Applied ML Engineer with 6.8yr exp | retrieval=3 | ranking=1 | production_ai=1 | AI-titled role | career_quality=70
+CAND_0094165,80,1338.2375,AI Research Engineer with 5.8yr exp | retrieval=1 | AI-titled role | career_quality=30
+CAND_0055905,81,1333.5375,Senior Machine Learning Engineer with 8.1yr exp | retrieval=3 | production_ai=1 | AI-titled role | career_quality=110
+CAND_0060303,82,1324.71,AI Research Engineer with 4.9yr exp | retrieval=1 | production_ai=1 | AI-titled role | career_quality=50
+CAND_0006557,83,1319.3375,NLP Engineer with 7.9yr exp | retrieval=2 | production_ai=1 | AI-titled role | career_quality=55
+CAND_0042506,84,1315.0525,Search Engineer with 4.2yr exp | retrieval=2 | production_ai=3 | AI-titled role | career_quality=50
+CAND_0018549,85,1313.775,Recommendation Systems Engineer with 6.8yr exp | production_ai=1 | AI-titled role | career_quality=55
+CAND_0060054,86,1311.6725,AI Engineer with 6.4yr exp | retrieval=2 | ranking=1 | production_ai=2 | AI-titled role | career_quality=80
+CAND_0061175,87,1307.2625,AI Research Engineer with 6.7yr exp | retrieval=3 | ranking=1 | production_ai=2 | AI-titled role | career_quality=50
+CAND_0036437,88,1302.4875,Search Engineer with 4.8yr exp | retrieval=2 | production_ai=2 | AI-titled role | career_quality=60
+CAND_0010257,89,1299.9375,Senior Data Scientist with 6.5yr exp | retrieval=1 | ranking=1 | production_ai=4 | AI-titled role | career_quality=55
+CAND_0065786,90,1293.3875,AI Specialist with 4.9yr exp | retrieval=2 | ranking=1 | production_ai=3 | AI-titled role | career_quality=45
+CAND_0022023,91,1288.9875,AI Research Engineer with 4.6yr exp | retrieval=1 | AI-titled role | career_quality=50
+CAND_0076251,92,1281.4775,Search Engineer with 7.6yr exp | retrieval=2 | ranking=1 | production_ai=1 | AI-titled role | career_quality=55
+CAND_0071974,93,1278.3675,Senior AI Engineer with 7.8yr exp | retrieval=5 | ranking=2 | production_ai=1 | AI-titled role | career_quality=50
+CAND_0058688,94,1278.03,AI Engineer with 6.7yr exp | retrieval=3 | production_ai=2 | AI-titled role | career_quality=40
+CAND_0029294,95,1276.755,AI Research Engineer with 4.0yr exp | retrieval=3 | ranking=2 | production_ai=1 | AI-titled role | career_quality=40
+CAND_0046924,96,1265.2875,Computer Vision Engineer with 6.3yr exp | retrieval=5 | ranking=2 | production_ai=3 | AI-titled role | career_quality=35
+CAND_0032216,97,1264.5625,ML Engineer with 6.1yr exp | retrieval=4 | ranking=1 | production_ai=2 | AI-titled role | career_quality=40
+CAND_0065501,98,1264.325,Computer Vision Engineer with 6.0yr exp | retrieval=1 | production_ai=2 | AI-titled role | career_quality=30
+CAND_0040117,99,1258.45,Recommendation Systems Engineer with 6.5yr exp | retrieval=2 | ranking=1 | AI-titled role | career_quality=50
+CAND_0015578,100,1254.55,AI Engineer with 5.4yr exp | retrieval=3 | ranking=1 | production_ai=3 | AI-titled role | career_quality=40

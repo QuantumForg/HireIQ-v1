@@ -1,0 +1,16 @@
+# Streamlit theme — keeps native widgets (toggle, selectbox, slider, checkbox)
+# aligned with the HireIQ dark accent palette. Visual-only configuration.
+
+[theme]
+base = "dark"
+primaryColor = "#7C3AED"
+backgroundColor = "#09090B"
+secondaryBackgroundColor = "#111827"
+textColor = "#FFFFFF"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

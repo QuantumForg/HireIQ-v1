@@ -1,0 +1,56 @@
+HIREIQ V1 RANKING REPORT
+============================================================
+
+TOP100 EXPERIENCE
+count    100.000000
+mean       6.232000
+std        1.165574
+min        4.000000
+25%        5.300000
+50%        6.100000
+75%        7.200000
+max        9.000000
+Name: years_of_experience, dtype: float64
+
+TITLE DISTRIBUTION
+                           title  count
+ Recommendation Systems Engineer     20
+            AI Research Engineer     18
+                 Search Engineer     17
+                     AI Engineer      9
+             Applied ML Engineer      9
+           Senior Data Scientist      6
+                    NLP Engineer      4
+                     ML Engineer      3
+        Senior Applied Scientist      2
+             Senior NLP Engineer      2
+              Senior AI Engineer      2
+Senior Machine Learning Engineer      2
+        Computer Vision Engineer      2
+                Lead AI Engineer      1
+                  Data Scientist      1
+ Staff Machine Learning Engineer      1
+                   AI Specialist      1
+
+TOP 20 CANDIDATES
+candidate_id                   current_title  years_of_experience  final_score
+CAND_0037980        Senior Applied Scientist                  9.0    2572.5125
+CAND_0007009 Recommendation Systems Engineer                  7.9    2413.5500
+CAND_0044883                     AI Engineer                  6.3    2197.0750
+CAND_0008425             Senior NLP Engineer                  7.8    2188.1500
+CAND_0041610 Recommendation Systems Engineer                  6.7    2180.5575
+CAND_0086151 Recommendation Systems Engineer                  7.7    2100.6500
+CAND_0068811             Applied ML Engineer                  8.0    2090.0250
+CAND_0065878           Senior Data Scientist                  7.8    2059.4100
+CAND_0000031 Recommendation Systems Engineer                  6.0    2052.2750
+CAND_0046064             Senior NLP Engineer                  8.9    2031.8125
+CAND_0007412             Applied ML Engineer                  7.4    2005.6625
+CAND_0041669 Recommendation Systems Engineer                  8.0    1978.2625
+CAND_0011162 Recommendation Systems Engineer                  5.8    1956.4900
+CAND_0086022        Senior Applied Scientist                  5.3    1948.5025
+CAND_0031593                 Search Engineer                  7.8    1909.2625
+CAND_0005649           Senior Data Scientist                  7.4    1856.1750
+CAND_0081686                 Search Engineer                  6.0    1855.4000
+CAND_0026532 Recommendation Systems Engineer                  4.8    1846.2975
+CAND_0098846                     AI Engineer                  7.6    1819.6500
+CAND_0024466                 Search Engineer                  5.2    1766.1900
