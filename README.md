@@ -118,7 +118,7 @@ Designed for high-volume hiring pipelines, HireIQ V1 processes **100,000+ candid
 
 | Capability | Description |
 |:--|:--|
-| 🧠 **AI-Powered Ranking** | Generates candidate scores using an engineered feature set. |
+| 🧠 **Explainable Candidate Ranking** | Generates transparent candidate scores using engineered ranking features. |
 | 🛠 **Feature Engineering Pipeline** | Transforms raw candidate data into ranking-ready signals. |
 | 🔍 **Explainable Recommendations** | Every ranked candidate carries a rationale for its score. |
 | 📄 **Automatic Report Generation** | Produces ranking, distribution, and top-candidate reports. |
