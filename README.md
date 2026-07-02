@@ -67,9 +67,7 @@ Built for the Redrob AI Hackathon — INDIA.RUNS
 
 ## 🧭 Introduction
 
-HireIQ V1 is an AI-powered recruitment intelligence system built to automate candidate evaluation and ranking at scale. It was developed for the **Redrob AI Hackathon — INDIA.RUNS**, with the goal of demonstrating a production-style ranking pipeline that is fast, explainable, and verifiable end to end.
-
-The system takes raw candidate data as input and produces a fully validated, ranked submission file, along with supporting reports and an interactive analytics dashboard, without manual intervention at any stage of the process.
+HireIQ V1 is a production-style recruitment intelligence pipeline designed to rank candidates at scale using transparent, explainable scoring instead of simple keyword matching. Built for the Redrob AI Hackathon – INDIA.RUNS, it transforms raw candidate data into validated rankings, analytical reports, and an interactive dashboard through a fully automated end-to-end workflow.
 
 ---
 
